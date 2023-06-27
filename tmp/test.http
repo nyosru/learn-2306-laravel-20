@@ -1,0 +1,2 @@
+GET http://localhost/api/good?api_token=f3e4d60517e56bcf099bb7a3baaec81063b4ece110bfd90281b6b1ceb0da1ad8
+Accept: application/json

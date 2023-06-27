@@ -1,0 +1,2 @@
+DELETE http://127.0.0.1/api/good/2?api_token=35c874bc0ea9a884b8f1e672fa81d09d954ad1492f1ffd17c34b1acd23b1cae7
+Accept: application/json
